@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f01e75d0-6036-4d76-aa11-23b70a49086f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Console/Commands/ShowProducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_06_12_035938_alter_products_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Console/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +130,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/marsa" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -155,6 +160,8 @@
       <workItem from="1589128172767" duration="589000" />
       <workItem from="1591866341267" duration="19619000" />
       <workItem from="1591896805073" duration="4889000" />
+      <workItem from="1591931051740" duration="3080000" />
+      <workItem from="1591975865537" duration="5579000" />
     </task>
     <task id="LOCAL-00001" summary="my_test">
       <created>1591901191213</created>
@@ -174,10 +181,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="my_test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="590" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591880945482">
+    <state x="590" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591934529820">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="590" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1591880945482" />
+    <state x="590" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1591934529820" />
     <state x="728" y="311" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1591889742280">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
